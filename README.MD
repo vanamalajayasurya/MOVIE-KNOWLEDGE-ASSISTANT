@@ -20,7 +20,7 @@
 ## 🎞️ Demo
 
 <div align="center">
-  <img src="assets/demo.png" alt="App screenshot: asking who directed The Dark Knight" width="85%"/>
+  <img src="Screenshot 2026-10-07 210332.png" alt="App screenshot: asking who directed The Dark Knight" width="85%"/>
   <p><i>Question: "who directed the dark knight" → <b>The Dark Knight was directed by Christopher Nolan.</b></i></p>
 </div>
 
