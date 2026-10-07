@@ -35,7 +35,7 @@
 ## 🧠 How It Works
 
 <div align="center">
-  <img src="assets/pipeline.svg" alt="Animated RAG pipeline: Question → Embed → Retrieve → Generate → Answer" width="100%"/>
+  <img src="pipeline.svg" alt="Animated RAG pipeline: Question → Embed → Retrieve → Generate → Answer" width="100%"/>
 </div>
 
 ```mermaid
