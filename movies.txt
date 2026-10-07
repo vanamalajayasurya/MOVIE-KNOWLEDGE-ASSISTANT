@@ -1,0 +1,20 @@
+Movie: Inception
+Genre: Science Fiction, Thriller
+Director: Christopher Nolan
+Year: 2010
+Cast: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page
+Plot: A skilled thief who steals secrets through dreams is given a chance to have his criminal history erased if he can successfully plant an idea in someone's mind.
+
+Movie: Interstellar
+Genre: Science Fiction, Adventure, Drama
+Director: Christopher Nolan
+Year: 2014
+Cast: Matthew McConaughey, Anne Hathaway, Jessica Chastain
+Plot: A group of astronauts travels through a wormhole to search for a new home for humanity.
+
+Movie: The Dark Knight
+Genre: Action, Crime, Drama
+Director: Christopher Nolan
+Year: 2008
+Cast: Christian Bale, Heath Ledger, Aaron Eckhart
+Plot: Batman faces the Joker, a criminal mastermind who creates chaos in Gotham City.
